@@ -1,4 +1,13 @@
-# CouserManeger
+# CouserManager
+
+Aplicação simples em Angular para gerenciar cursos listados no back-end. 
+Desenvolvido com Angular no front-end e np back-end Node com express, bodyparser e cors.
+
+![tela](https://user-images.githubusercontent.com/59884552/78416012-f8d26300-75fb-11ea-89a1-1e17ef824915.png)
+
+###Dependências
+Na pasta server rodar com o node o arquivo server.js
+A aplicação npm start ou ng serve
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
 
