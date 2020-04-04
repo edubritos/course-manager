@@ -5,7 +5,7 @@ Desenvolvido com Angular no front-end e np back-end Node com express, bodyparser
 
 ![tela](https://user-images.githubusercontent.com/59884552/78416012-f8d26300-75fb-11ea-89a1-1e17ef824915.png)
 
-###Dependências
+### Dependências
 Na pasta server rodar com o node o arquivo server.js
 A aplicação npm start ou ng serve
 
